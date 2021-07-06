@@ -1,0 +1,10 @@
+You will first be asked to select your keyboard layout. If the installer doesn’t guess the default layout correctly, use the ‘Detect Keyboard Layout’ button to run through a brief configuration procedure.
+
+After selecting Continue you will be asked What apps would you like to install to start with? The two options are ‘Normal installation’ and ‘Minimal installation’. The first is the equivalent to the old default bundle of utilities, applications, games and media players — a great launchpad for any Linux installation. The second takes considerably less storage space and allows you to install only what you need.
+
+Beneath the installation-type question are two checkboxes; one to enable updates while installing and another to enable third-party software.
+
+    We advise enabling both Download updates and Install third-party software.
+    Stay connected to the internet so you can get the latest updates while you install Ubuntu.
+    If you are not connected to the internet, you will be asked to select a wireless network, if available. We advise you to connect during the installation so we can ensure your machine is up to date
+
